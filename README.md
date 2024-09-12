@@ -49,3 +49,6 @@ The analysis results are analyzed as follows:
 Based on the analysis, I recommend the following actions:
 
 ### Limitations
+I had to remove all zeros from budget as it would affect accuracy of my conclusion from the analysis
+
+
