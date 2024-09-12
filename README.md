@@ -22,7 +22,8 @@ In the initial data preparation phase, I performed the following tasks.
 
 1. Data loading and Inspection.
 2. Handling missing values.
-3. Data cleaning and formatting.
+3. There were some values in some columns as 'Unknown'
+4. Data cleaning and formatting.
 
 ### Exploratory Data Analysis
 
